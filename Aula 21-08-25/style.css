@@ -1,0 +1,14 @@
+/* Seletor de elementos*/
+p{
+    color: rgb(14, 59, 0);
+}
+    h1{
+        color: rgba(189, 0, 206, 0.295);
+    }
+    h2{
+        color: rgb(228, 187, 158);
+    }
+#para1{
+    text-align: center;
+    color: darkblue;
+}
