@@ -1,0 +1,35 @@
+body{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*Seletor de clase*/
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.menu{
+    background-color: rgba(211, 3, 230, 0.582);
+    padding: 2rem;
+    margin-right: 1rem;/**/
+}
+
+.item-menu{
+    padding: 0.6rem;
+    margin: 0.7rem 0rem 0.7rem 0rem;
+    list-style: none;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+}
+.conteudo{
+    padding: 2rem;
+    width: 70%;
+}
+.item-menu:hover{
+    background-color: crimson;
+}
+#sec1{
+    background-color: rgba(204, 0, 255);
+}
+#sec2{
+    background-color: rgb(204, 0, 255);
+}
